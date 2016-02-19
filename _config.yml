@@ -1,0 +1,28 @@
+name: shutoutschool
+favicon: null
+layout_spectrum: 0.3760987869463861
+typography_spectrum: 0.6961493147537112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6066606494132429
+  lightness: 0.6728337216190994
+  saturation: 0.6281001321040094
+  rhythmicContrast: 0.4138446149881929
+purpose: []
